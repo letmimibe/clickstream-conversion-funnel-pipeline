@@ -1,0 +1,4 @@
+.venv/
+.DS_Store
+event-history.csv
+funnel_warehouse.db
